@@ -6,3 +6,4 @@ fjord
 stinky
 nifty
 house
+stars
