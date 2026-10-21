@@ -1,4 +1,7 @@
 ## KHxSASE Github Workshop Activity!!
+Changes for Workshop
+
+
 Hello, and thank you for checking out the repository for the activity!
 
 The goal of this activity is to let everyone apply what they've learned during the workshop and submit their own pull requests
