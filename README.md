@@ -7,6 +7,8 @@ Working in groups is ideal to get familiar with working with people, but it's ok
 
 Lets get started now! 
 
+Yo, this is Caden's pr.
+
 ## Activity Outline
 Coding is NOT a requirement for this activity, so no worries if you don't know how to
 
