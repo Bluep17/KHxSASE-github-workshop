@@ -6,6 +6,8 @@ The secret word is chosen from a separate file, words.txt
 Any five letters are accepted as a guess, whether or not they appear in that list.
 """
 
+
+
 import os
 import random
 import sys
@@ -145,4 +147,4 @@ if __name__ == "__main__":
     try:
         main()
     except (KeyboardInterrupt, EOFError):
-        print("\nGoodbye!")
+        print("\nGoodbye!!!")
