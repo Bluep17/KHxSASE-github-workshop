@@ -4,4 +4,7 @@ claim
 debut
 fjord
 trying
+stinky
+nifty
+house
 stars
